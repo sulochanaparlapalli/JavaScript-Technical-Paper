@@ -485,4 +485,5 @@ Hi Hi Hi
 - Strings are immutable.
 - String methods return new strings.
 - No method modifies original string.
+- **All string methods are immutable in JavaScript**
 - Very useful for data cleaning, searching, and formatting.
